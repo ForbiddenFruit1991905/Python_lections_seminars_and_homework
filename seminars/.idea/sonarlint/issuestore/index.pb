@@ -81,3 +81,9 @@ w
 G.idea/sonarlint/issuestore/a/a/aa1c1b082cd764d3874458b6bf97e7b952b9c6b7,6\4\64385a72b5ca83b8628e1545b8ee6c9edb7ff2eb
 Å
 Q.idea/sonarlint/securityhotspotstore/a/a/aa1c1b082cd764d3874458b6bf97e7b952b9c6b7,a\5\a5fb198bab2fcc7b8cbdff243fd32da5f1f666d8
+L
+seminar_3/homework/task_1.py,e\0\e05cdb7bdd174a52343c89beb6462dbc49629e04
+L
+seminar_3/homework/task_2.py,5\3\532a832515436fb3e0b6f1098bf8be13a8274726
+L
+seminar_3/homework/task_3.py,4\0\408772f2b98aaff807361324cfbf79b1d8fe64b7
