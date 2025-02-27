@@ -87,3 +87,7 @@ L
 seminar_3/homework/task_2.py,5\3\532a832515436fb3e0b6f1098bf8be13a8274726
 L
 seminar_3/homework/task_3.py,4\0\408772f2b98aaff807361324cfbf79b1d8fe64b7
+L
+seminar_3/homework/task_4.py,3\b\3b67789c6431abc1e852091a1ab2224fae2370ef
+L
+seminar_3/homework/task_5.py,2\d\2da9877452576a5161aececbb1439d4c3c16c910
