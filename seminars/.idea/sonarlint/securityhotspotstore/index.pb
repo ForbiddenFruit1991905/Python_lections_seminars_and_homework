@@ -91,7 +91,17 @@ L
 seminar_3/homework/task_4.py,3\b\3b67789c6431abc1e852091a1ab2224fae2370ef
 L
 seminar_3/homework/task_5.py,2\d\2da9877452576a5161aececbb1439d4c3c16c910
-<
-seminar_5.py,3\2\326fa354bd85d82c1d4f5df17c65b59e1c83110e
 C
 seminar_5/task_1.py,4\5\4575f45a73a7f99b8daf86eab23543f0b235d712
+C
+seminar_5/task_2.py,6\1\610fe493d12e731c1ec8103672a8bf83ee4e2f7f
+C
+seminar_5/task_3.py,c\3\c38f66f42a77c1bce2847a9272a0e52cd1f2c41b
+C
+seminar_5/task_4.py,0\6\0689ec9427ea9bb759c5a442069f048c9f564220
+C
+seminar_5/task_5.py,b\0\b0473b8776b7f3eba78c6c0824305e83a3bd4cba
+C
+seminar_5/task_6.py,6\0\6081f82ad7421423f26d9be80033547f4a4ae514
+C
+seminar_5/task_7.py,c\3\c3603dc7dacfd1f0dc140c5222ddca87502bddce
