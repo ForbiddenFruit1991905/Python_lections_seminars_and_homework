@@ -271,3 +271,17 @@ L
 lection_5/task_gen_func_3.py,7\d\7d4c6509193880d077d1fc6757985b752e2a5a91
 J
 lection_5/task_lesson_4.py,8\c\8c9f4482e3dc491295583e8beae59dabd9163495
+J
+lection_6/task_import_1.py,5\d\5dc7623be39619e79be65b785cf20bddff009bc6
+J
+lection_6/task_import_2.py,6\8\68e88ba098c2d747f31d613ed38e68e7563178f1
+J
+lection_6/task_import_3.py,6\b\6b7fbe8d5c01229a86c5589d7a5f458bf1044c7b
+J
+lection_6/task_import_4.py,9\5\9506dccbf448b1c0eb69fcbb15bf13e745c4231b
+J
+lection_6/task_import_5.py,4\9\4970997438f6dd538fbcd90936662c592c2de711
+J
+lection_6/task_import_6.py,5\e\5edee08a34643df5c43254432356658b72ba5062
+J
+lection_6/task_lesson_1.py,d\a\da7eb71b56e5a887de96349df2b44335113cc138
