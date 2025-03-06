@@ -111,3 +111,7 @@ C
 seminar_6/task_2.py,c\4\c47094adbf1a8b064781e98b2c1ecd68ad07f0ac
 C
 seminar_6/task_3.py,d\c\dcd211e88498b562afac2a8c846e9f6fd04fd0a3
+C
+seminar_6/task_4.py,f\4\f4decd5ad34b76e6ad7f9bbf527932bf28d3757d
+C
+seminar_6/task_5.py,2\d\2d94d9e9d51082afdf29371731ea21e975bc6107

@@ -10,23 +10,25 @@
 
 from random import randint
 
-LOW_BOUND = 1
-UPPER_BOUND = 10
-ATTEMPTS = 3
-
-def func_guess_num(n: int):
+def func_guess_num(LOW_BOUND: int, UPPER_BOUND: int, ATTEMPTS: int):
     random_num = randint(LOW_BOUND, UPPER_BOUND)
     z = (f'В диапазоне от {LOW_BOUND} до {UPPER_BOUND} '
          f'получили {random_num}')
     print(z)
     attempt = 0
-    while attempt < ATTEMPTS - 1:
-        if n != random_num:
+    while attempt < ATTEMPTS:
+        person_attempt = int(input(f"Угадайте число в указанном диапазоне от {LOW_BOUND} до {UPPER_BOUND}: "))
+        if LOW_BOUND <= person_attempt <= UPPER_BOUND:
+            if person_attempt < random_num:
+                print("Вы не угадали. Попробуйте еще раз. Число должно быть больше указанного.")
+            elif person_attempt > random_num:
+                print("Вы не угадали. Попробуйте еще раз. Число должно быть меньше указанного.")
+            else:
+                return True
             attempt += 1
-            n = int(input("Попробуйте еще раз: "))
         else:
-            return True
+            print("Вы ввели значение не из указанного диапазона")
     return False
 
-person_attempt = int(input("Угадайте число в диапазоне от 1 до 10: "))
-print(func_guess_num(person_attempt))
+# if __name__ == '__main__':
+#     print(func_guess_num(1, 10, 3))
