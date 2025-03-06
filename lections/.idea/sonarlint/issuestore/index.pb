@@ -285,3 +285,17 @@ J
 lection_6/task_import_6.py,5\e\5edee08a34643df5c43254432356658b72ba5062
 J
 lection_6/task_lesson_1.py,d\a\da7eb71b56e5a887de96349df2b44335113cc138
+J
+lection_6/task_module_1.py,1\c\1c5b8432fdccfd4ef0466cf6f81161c3d5b4b4e4
+W
+'lection_6/mathematical/advanced_math.py,d\e\de5662cfb834e0b0a6fe0a47bcefeff59f3e3230
+R
+"lection_6/mathematical/__init__.py,e\e\ee4f0aee9435b9264fc96b69945b6590adeb9a11
+J
+lection_6/task_module_2.py,f\9\f9f1c0c059c914fab4f4ea70cd292d895ea54a76
+U
+%lection_6/mathematical/base_module.py,b\7\b7855d3485f781130321f079ba38caef41bb0a02
+K
+lection_6/task_lection_2.py,6\4\647adb43ff56bf6997f0c3f284083b75baeecd7f
+C
+lection_6/script.py,f\4\f4a41337e56451155adc0202fd2a23c66d037070
