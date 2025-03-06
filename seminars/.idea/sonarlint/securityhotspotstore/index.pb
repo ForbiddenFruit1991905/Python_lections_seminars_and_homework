@@ -105,3 +105,9 @@ C
 seminar_5/task_6.py,6\0\6081f82ad7421423f26d9be80033547f4a4ae514
 C
 seminar_5/task_7.py,c\3\c3603dc7dacfd1f0dc140c5222ddca87502bddce
+C
+seminar_6/task_1.py,e\0\e0aa5577d182e695fce38d40faa76b12841cb1fa
+C
+seminar_6/task_2.py,c\4\c47094adbf1a8b064781e98b2c1ecd68ad07f0ac
+C
+seminar_6/task_3.py,d\c\dcd211e88498b562afac2a8c846e9f6fd04fd0a3
