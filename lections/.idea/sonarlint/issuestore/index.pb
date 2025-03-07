@@ -300,8 +300,6 @@ K
 C
 lection_6/script.py,f\4\f4a41337e56451155adc0202fd2a23c66d037070
 J
-lection_6/task_random_!.py,8\b\8b22d01116c9f960f9ed17743059610478e647f4
-J
 lection_6/task_random_1.py,2\9\2958a3c80df629263dad8043c0b34a2e8edff3a9
 K
 lection_6/task_lection_3.py,e\e\ee851ede5e8c0af9302f41df53b7f04b3b42ef2b
