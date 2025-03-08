@@ -10,13 +10,11 @@
 
 def func_date(data: list[str]):
     if len(data) == 3:
-        # if len(data[0]) == 2 and len(data[1]) == 2 and len(data[2]) == 4:
-            day, month, year = data
-            if 1 <= int(day) <= 31 and 1 <= int(month) <= 12 and 1 <= int(year) <= 9999:
-                return True
+        day, month, year = data
+        if 1 <= int(day) <= 31 and 1 <= int(month) <= 12 and 1 <= int(year) <= 9999:
+            return True
     else:
         return False
 
 txt = input("Введите дату в формате ДД.ММ.ГГГГ: ").split('.')
-# data = [int(val) for val in txt]
 print(func_date(txt))

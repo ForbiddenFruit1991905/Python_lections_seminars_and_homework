@@ -1,0 +1,1 @@
+__all__ = ['task_7', 'task_7_protected_func']
