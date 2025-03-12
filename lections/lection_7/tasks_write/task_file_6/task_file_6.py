@@ -7,12 +7,12 @@
 import os
 from pathlib import Path
 
-# os.rename('old_name.py', 'new_name.py')
-#
-# p = Path('old_file.py')
-# p.rename('new_file.py')
-#
-# Path('new_file.py').rename('newest_file.py')
+os.rename('old_name.py', 'new_name.py')
+
+p = Path('old_file.py')
+p.rename('new_file.py')
+
+Path('new_file.py').rename('newest_file.py')
 
 # Функция rename принимает на вход два обязательных аргумента — исходное
 # имя файла и новое имя. Важно чтобы файл существовал, а новое имя не
@@ -27,11 +27,11 @@ from pathlib import Path
 # Перемещение файла подразумевает изменение его позиции в каталоге
 # файловой системы. В процессе перемещения файл может быть переименован.
 
-# os.replace('newest_file.py', os.path.join(os.getcwd(), 'dir',
-#                                           'new_name.py'))
-#
-# old_file = Path('new_name.py')
-# new_file = old_file.replace(Path.cwd() / 'new_os_dir' / old_file)
+os.replace('newest_file.py', os.path.join(os.getcwd(), 'dir',
+                                          'new_name.py'))
+
+old_file = Path('new_name.py')
+new_file = old_file.replace(Path.cwd() / 'new_os_dir' / old_file)
 
 # Для исходного файла явно не указывали директорию, где он расположен.
 # При переносе была указана текущая директория как отправная точка.
@@ -47,8 +47,8 @@ from pathlib import Path
 
 import shutil
 
-# shutil.copy('one.txt', 'dir')
-# shutil.copy2('two.txt', 'dir')
+shutil.copy('one.txt', 'dir')
+shutil.copy2('two.txt', 'dir')
 
 # Функции copy и copy2 работают схожим образом. Они принимают файл для
 # копирования и целевой каталог. Если такого каталога не существует,
@@ -59,7 +59,7 @@ import shutil
 # Если стоит задача скопировать каталог со всем его содержимым в новое
 # место, модуль предоставляет функции copytree.
 
-# shutil.copytree('dir', 'one_more_dir')
+shutil.copytree('dir', 'one_more_dir')
 
 # Функция copytree рекурсивно обходит указанный каталог и копирует его
 # содержимое в новое место.
