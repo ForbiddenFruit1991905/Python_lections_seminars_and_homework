@@ -1,0 +1,8 @@
+
+Ppython:S1172"1Remove the unused function parameter "num_files".(ώΐΚ8£νοχΨ2
+Opython:S1172"0Remove the unused function parameter "len_name".(ώΐΚ8¤νοχΨ2
+Upython:S1172"6Remove the unused function parameter "file_extension".(ώΐΚ8¥νοχΨ2
+Opython:S1172"0Remove the unused function parameter "len_byte".(ώΐΚ8¥νοχΨ2
+Npython:S1481"/Remove the unused local variable "current_dir".(έΫΩ8¦νοχΨ2
+spython:S930"UAdd 2 missing arguments; 'func_create_files' expects at least 2 positional arguments.(–ΖρΚ8ªνοχΨ2
+=python:S125"Remove this commented out code.(ΖΤ¦8«νοχΨ2

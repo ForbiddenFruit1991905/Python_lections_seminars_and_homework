@@ -31,6 +31,23 @@ def func_res_file():
           open('example_3.txt', 'a', encoding='utf-8') as new_filename):
 
         results = []
+
+        # total_lines_f1 = sum(1 for _ in f_1)
+        # total_lines_f2 = sum(1 for _ in f_2)
+        # max_lines = max(total_lines_f1, total_lines_f2)
+        #
+        # for _ in range(max_lines):
+        #     line_f_1 = f_1.readline().strip()
+        #     line_f_2 = f_2.readline().strip()
+        #
+        #     if not line_f_1:
+        #         f_1.seek(0)
+        #         f_1.readline().strip()
+        #
+        #     if not line_f_2:
+        #         f_2.seek(0)
+        #         f_2.readline().strip()
+
         for line_f_1, line_f_2 in zip(f_1, f_2):
 
             list_line_num = list(line_f_1.split())
@@ -44,7 +61,6 @@ def func_res_file():
                 name = name.lower()
             else:
                 name = name.upper()
-
             new_line = f"{name} | {result_num}\n"
             new_filename.write(new_line)
 
