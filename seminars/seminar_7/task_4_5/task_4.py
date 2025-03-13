@@ -9,10 +9,19 @@
     # ✔ количество файлов, по умолчанию 42
 # ✔ Имя файла и его размер должны быть в рамках переданного диапазона.
 
+# Задание №5
+# ✔ Доработаем предыдущую задачу.
+# ✔ Создайте новую функцию которая генерирует файлы с разными расширениями.
+# ✔ Расширения и количество файлов функция принимает в качестве параметров.
+# ✔ Количество переданных расширений может быть любым.
+# ✔ Количество файлов для каждого расширения различно.
+# ✔ Внутри используйте вызов функции из прошлой задачи.
+
 import os
+from random import choices
 import random
 
-def func_create_files(file_extension=".txt", len_name=6, len_byte=256, num_files=3):
+def func_create_files(file_extension, len_name=6, len_byte=256, num_files=3):
     current_dir = os.path.dirname(os.path.realpath(__file__))
     vowels = ['a', 'e', 'i', 'o', 'u']
     consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y',
@@ -35,5 +44,12 @@ def func_create_files(file_extension=".txt", len_name=6, len_byte=256, num_files
 
     print(f"{num_files} файл-а(ов) было успешно создано в каталоге {current_dir}.")
 
-func_create_files()
+def func_random_ext(num_file: int, **kwargs):
+    values_extensions = []
+    for value in kwargs.values():
+        values_extensions.append(value)
+    for _ in range(num_file):
+        ext = str(*choices(values_extensions))
+        func_create_files(ext, len_name=6, len_byte=256, num_files=3)
 
+func_random_ext(3, a='.txt', b='.doc', c=3, d='.exe')
