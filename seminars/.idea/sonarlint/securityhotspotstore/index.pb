@@ -343,3 +343,31 @@ P
 0seminar_7/task_4_5/2_Srraolombzxomormmgmddwg.txt,f\c\fc4b53e7517f8f962a25f1a472d790800a4d9f80
 N
 seminar_7/task_4_5/task_4_5.py,1\f\1fe437eb877bbebfb63befadb37f3076fbd01303
+S
+#seminar_7/tasks_4_5_6/3_Vvmpurj.txt,7\f\7f64cb611d6a62c696b427cf326c05895a316551
+S
+#seminar_7/tasks_4_5_6/task_4_5_6.py,2\8\28fcc9e0a26dc2d879ce8c1d07f6576d53e22f96
+O
+seminar_7/tasks_4_5_6/task_6.py,5\0\503ec1fc467b4609e1612620be168dab25d798e5
+J
+seminar_7/task_7/task_7.py,4\f\4f6459ea17035e61ce9b7998d4b4613faa22cefc
+h
+8seminar_7/tasks_4_5_6/1_Gmazhqmupmzmsmmchfmddmwujzqw.txt,1\c\1c4ca045e9c5861b170f697a78b3c916b9315c04
+s
+Cseminar_7/tasks_4_5_6/dir_for_task_6/3_Ptwwptuybbpbtppbauaawteu.txt,c\8\c8361e624f255a885a3127ec72d353d7756f7c4a
+c
+3seminar_7/tasks_4_5_6/1_Rkerfrktrloegedigilrrzg.txt,5\4\54d44d0afad1e0beda13ae8cfe0a105528c71f04
+Z
+*seminar_7/tasks_4_5_6/3_Yqnliqapqqjpkb.txt,a\9\a99d90b05285d41a96feb03023b55411ba4fc2b9
+b
+2seminar_7/tasks_4_5_6/2_Ybfxjmgmvayrgliyybvyvq.txt,f\4\f4f38e4ac9a81b92fa16fce28b5bda811849b023
+]
+-seminar_7/tasks_4_5_6/1_Tzworwbevwytkkveo.exe,0\2\027bc0d5967095555fbb99ab9632485bf104ee7d
+b
+2seminar_7/tasks_4_5_6/3_Vargiyrwragfaawryoginw.exe,0\1\010d36ee71164e5e069c04f623103c61dac9a505
+Q
+!seminar_7/tasks_4_5_6/task_4_5.py,f\f\ff7ce6e90c44158112a2f8ea590ac2506be30fc2
+c
+3seminar_7/tasks_4_5_6/2_Ommvoobomofnmnvxmfvcxof.exe,1\b\1bd34ecfd53076f604b85e642c7f750f575fe8b0
+c
+3seminar_7/tasks_4_5_6/2_Srraolombzxomormmgmddwg.txt,e\c\ec3c978861466920c767156d2b5647952b6d973c
