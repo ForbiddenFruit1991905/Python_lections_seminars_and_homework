@@ -341,3 +341,5 @@ P
 0seminar_7/task_4_5/2_Ommvoobomofnmnvxmfvcxof.exe,6\d\6d33ab96855097cdf726f24561458b99fa21ca04
 `
 0seminar_7/task_4_5/2_Srraolombzxomormmgmddwg.txt,f\c\fc4b53e7517f8f962a25f1a472d790800a4d9f80
+N
+seminar_7/task_4_5/task_4_5.py,1\f\1fe437eb877bbebfb63befadb37f3076fbd01303

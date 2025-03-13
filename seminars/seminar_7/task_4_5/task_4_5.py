@@ -52,4 +52,4 @@ def func_random_ext(num_file: int, **kwargs):
         ext = str(*choices(values_extensions))
         func_create_files(ext, len_name=6, len_byte=256, num_files=3)
 
-func_random_ext(3, a='.txt', b='.doc', c=3, d='.exe')
+func_random_ext(3, a='.txt', b='.doc', c='.pdf', d='.exe')
