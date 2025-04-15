@@ -399,3 +399,21 @@ f
 +lection_7/task_lection_2/new_dir/file_6.txt,a\1\a18d60bdc8a8ce9c67405e4f8b72a73fc7bda14f
 [
 +lection_7/task_lection_2/new_dir/file_8.txt,b\4\b4126781fdfe94baaa88f98a3089a88a3aae7fe7
+C
+lection_8/task_1.py,9\9\99b7dcc4c4f5d7f13d40b6eeaa09223b0eb78496
+C
+lection_8/task_2.py,b\f\bf199b93f1b9027c6dd678e1f6d55fcb2085d5a4
+C
+lection_8/task_3.py,2\9\291da4ff35fada5392c2a2a2f4a36100105ecfd8
+G
+lection_8/new_user.json,1\0\10e40129a519e2d2afa040079833b729ac5a779e
+C
+lection_8/task_4.py,4\e\4e455a7cf61405fe69cb2e4c6b545eb060261ccd
+J
+lection_8/task_lesson_1.py,3\3\33be6969e4d33bfee0048b59074e34dd71a3bc49
+G
+lection_8/ biostats.csv,a\4\a4d18a1d7fdfba43bf02f9c383b2ede4a0fd8d10
+J
+lection_8/biostats_tab.csv,f\0\f02e2bf7ab9ea39398cdd6bd8ca17f0ac75ed023
+C
+lection_8/user.json,1\7\174814f9040b706ff88b8052192712bf34418823
